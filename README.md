@@ -3,25 +3,41 @@
 
 ###
 
+<!-- SOBRE MIM -->
+<p align="left">
+  🎓 Estudante de Análise e Desenvolvimento de Sistemas.<br>
+  💻 Atualmente focada em Java e desenvolvimento Web.<br>
+  🚀 Sempre aprendendo e buscando evoluir!
+</p>
+
+<br>
+
+###
+
 <!-- GITHUB STATS E GIF-->
 <div>
       <img src="https://github-readme-stats.vercel.app/api?username=Mabiis&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="180" alt="stats graph" />
       <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamUxN28wbWc2emw4am5wbnE5eWdoM2FvMjl1ZGFpbnd1azBkeXp1cCZlcD12MV9pbnRlcm5naWZfYnlfaWQmY3Q9Zw/heIX5HfWgEYlW/giphy.gif" height="280" width="280" align="right"/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mabiis&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mabiis&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&order=2" height="150" width="380" alt="languages graph" />
 </div>
+
+<br>
 
 ###
 
 <!-- TECNOLOGIAS LOGO -->
 <div style="display: inline_block"><br>
-  <img align="center" alt="Mabiis-Vscode" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Mabiis-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Mabiis-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Mabiis-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Mabiis-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Mabiis-Csharp" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Mabiis-C" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+      <img align="center" alt="Mabiis-Vscode" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+      <img align="center" alt="Mabiis-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+      <img align="center" alt="Mabiis-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+      <img align="center" alt="Mabiis-Java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+      <img align="center" alt="Mabiis-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+      <img align="center" alt="Mabiis-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+      <img align="center" alt="Mabiis-Csharp" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+      <img align="center" alt="Mabiis-C" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
+
+<br>
 
 ###
 
